@@ -1,0 +1,19 @@
+{
+  "name": "lottery-updated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "compile.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^2.0.1",
+    "solc": "^0.8.11",
+    "web3": "^1.7.0"
+  }
+}
